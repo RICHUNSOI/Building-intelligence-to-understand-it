@@ -1,0 +1,3 @@
+/cifar_data/
+__pycache__/
+*.py[cod]
